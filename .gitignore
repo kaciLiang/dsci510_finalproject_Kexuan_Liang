@@ -1,0 +1,21 @@
+# env (don't upload your API key)
+.env
+
+# data files (keep empty)
+data/
+
+# python cache
+__pycache__/
+*.pyc
+
+# virtual environments
+.venv/
+venv/
+
+# mac / editor files
+.DS_Store
+.idea/
+.vscode/
+
+# notebook checkpoints
+.ipynb_checkpoints/

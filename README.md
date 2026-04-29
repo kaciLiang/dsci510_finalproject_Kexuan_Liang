@@ -12,11 +12,11 @@ This project investigates what content and timing factors drive social media eng
 
 ## Data Sources
 
-| # | Name | Type | Format | Link |
+| # | Name | Type | Format | Link |Data Size|
 |---|------|------|--------|------|
-| 1 | Instagram Engagement Analytics | File (Kaggle, hosted on Google Drive) | CSV | https://drive.google.com/uc?export=download&id=1kFbRKn3x2SVt6eo6XElhePFKiKBMDKbw |
-| 2 | Viral Social Media Trends | File (Kaggle, hosted on Google Drive) | CSV | https://drive.google.com/uc?export=download&id=16Jq-lwlSK43wWLmo5iSvfqjju7yZHVHd |
-| 3 | YouTube Data API v3 | API | JSON | https://developers.google.com/youtube/v3 |
+| 1 | Instagram Engagement Analytics | File (Kaggle, hosted on Google Drive) | CSV | https://drive.google.com/uc?export=download&id=1kFbRKn3x2SVt6eo6XElhePFKiKBMDKbw |~20,000 posts|
+| 2 | Viral Social Media Trends | File (Kaggle, hosted on Google Drive) | CSV | https://drive.google.com/uc?export=download&id=16Jq-lwlSK43wWLmo5iSvfqjju7yZHVHd |~ 5,000 rows|
+| 3 | YouTube Data API v3 | API | JSON | https://developers.google.com/youtube/v3 | 400 videos|
 
 The two CSV datasets are hosted on my public Google Drive.  
 `main.py` downloads them automatically when the program is run.

@@ -144,7 +144,7 @@ jupyter notebook results.ipynb
 
 ## AI Usage
 
-I used Claude (Anthropic) as a coding assistant during this project. I designed the overall project structure, selected datasets, and conducted all analysis and interpretation independently.
+I used Claude as a coding assistant during this project. I designed the overall project structure, selected datasets, and conducted all analysis and interpretation independently.
 
 AI assistance was used for:
 - implementing the Google Drive download function (`download_from_drive`)

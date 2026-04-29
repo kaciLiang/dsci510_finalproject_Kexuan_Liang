@@ -149,8 +149,8 @@ I used Claude as a coding assistant during this project. I designed the overall 
 AI assistance was used for:
 - implementing the Google Drive download function (`download_from_drive`)
 - implementing the YouTube Data API v3 request logic (`get_youtube_data`)
-- minor debugging support (e.g., fixing import paths and environment setup issues)
+- minor debugging support (e.g. fixing import paths and environment setup issues)
 
-These sections are marked with `# AI generated` comments in the code.
+These sections are marked with `# AI generated comments in the code.
 
 For all AI-assisted code, I reviewed it line-by-line, ensured I understood its functionality, and verified the results through my own testing.
